@@ -9,7 +9,7 @@
     {
       "id": "3t2",
       "title": "3t2",
-      "path": "./assets/products/3t/2.jpg",
+      "path": "~@/assets/products/3t/2.jpg",
       "description": "3t2 product"
     },
     {
