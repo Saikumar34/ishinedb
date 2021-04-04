@@ -3,19 +3,19 @@
     {
       "id": "3t1",
       "title": "3t1",
-      "path": "../assets/products/3t/1.jpg",
+      "path": "assets/products/3t/1.jpg",
       "description": "3t1 product"
     },
     {
       "id": "3t2",
       "title": "3t2",
-      "path": "../assets/products/3t/2.jpg",
+      "path": "./assets/products/3t/2.jpg",
       "description": "3t2 product"
     },
     {
       "id": "3t3",
       "title": "3t3",
-      "path": "../assets/products/3t/3.jpg",
+      "path": "/assets/products/3t/3.jpg",
       "description": "3t3 product"
     },
     {
